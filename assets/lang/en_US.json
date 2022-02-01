@@ -1,0 +1,13 @@
+{
+    "version": "X.X.X.X",
+    "welcomescreen": {
+      "signin_btn": "เข้าระบบ",
+      "signup_btn": "ยังไม่เป็นสมาชิก"
+    },
+    "signinscreen": {
+  
+    },
+    "signupscreen": {
+      
+    }
+  }
