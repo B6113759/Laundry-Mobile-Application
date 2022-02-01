@@ -1,0 +1,42 @@
+{
+  "version": "X.X.X.X",
+  "welcomescreen": {
+    "signin_btn": "เข้าระบบ",
+    "signup_btn": "ยังไม่เป็นสมาชิก"
+  },
+  "newwasherscreen": {
+    "welcome_title": "ยินดีต้อนรับ",
+    "newwasher_title": "นักซักมือใหม่"
+  },
+  "signupscreen_phone": {
+    "title": "กรอกเบอร์โทรของคุณ",
+    "alert_label": "รูปแบบเบอร์โทรศัพท์ไม่ถูกต้อง",
+    "back_btn": "กลับ",
+    "next_btn": "ถัดไป"
+  },
+  "signupscreen_otp": {
+    "title": "ยืนยัน OTP",
+    "alert_label_success": "OTP ถูกต้อง",
+    "alert_label_fail": "OTP ไม่ถูกต้อง",
+    "time": "วินาที",
+    "back_btn": "กลับ",
+    "resend_btn": "ส่งใหม่"
+  },
+  "tosscreen": {
+    "termtitle": "เงื่อนไขการให้บริการ",
+    "confirm_btn": "ยอมรับ"
+  },
+  "createpinscreen": {
+    "title": "สร้าง PINCODE ของคุณ",
+    "title_repin": "ยืนยัน PINCODE ของคุณ",
+    "back_btn": "กลับ",
+    "confirm_btn": "ยืนยัน",
+    "alert_fail": "PINCODE ไม่ตรงกัน"
+  },
+
+  "signinscreen_pin": {
+    "title": "PINCODE",
+    "alert_fail": "รหัสผ่านผิดพลาด",
+    "forgot": "ลืม PINCODE?"
+  }
+}
